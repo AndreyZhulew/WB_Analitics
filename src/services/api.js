@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE_URL = 'https://wb-proxy.onrender.com/api';
+const API_BASE_URL = 'http://109.73.206.144:6969/api'
 const API_KEY = 'E6kUTYrYwZq2tN4QEtyzsbEBk3ie'
 
 const api = axios.create({
